@@ -38,6 +38,7 @@
   "scripts": {
     "test": "make test"
   },
+  "registry": "npm",
   "dependencies": {
     "sax": "~1.1.1",
     "coa": "~1.0.1",
